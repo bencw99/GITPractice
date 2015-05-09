@@ -9,4 +9,24 @@ public class Position
 	this.xPos = xPos;
 	this,yPos = yPos;
     }
+
+    public void setX(double xPos)
+    {
+	this.xPos = xPos;
+    }
+
+    public void setY(double yPos)
+    {
+	this.yPos = yPos;
+    }
+
+    public double getX()
+    {
+	return xPos;
+    }
+
+    public double getY()
+    {
+	return yPos;
+    }
 }
