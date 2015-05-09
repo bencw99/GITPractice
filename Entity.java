@@ -1,8 +1,10 @@
 
 public class Entity
 {
-    public Entity()
-    {
+    Position pos;
 
+    public Entity(Position pos)
+    {
+	this.pos = pos;
     }
 }
