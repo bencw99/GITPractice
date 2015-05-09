@@ -1,4 +1,7 @@
 
+/**
+ * A class representing a two dimensional position
+ */
 public class Position
 {
     double xPos;
