@@ -1,12 +1,8 @@
 
-public class Eric
+public class Eric extends Entity
 {
-    Position pos;
-
     public Eric(Position pos)
     {
-	this.pos = pos;
-	//sup
-	//jdjdjhdhdffi
+	super(pos);
     }
 }
