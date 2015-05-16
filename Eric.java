@@ -6,6 +6,7 @@ public class Eric
     public Eric(Position pos)
     {
 	this.pos = pos;
+	//sup
 	//jdjdjhdhdffi
     }
 }
