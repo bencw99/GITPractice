@@ -1,10 +1,11 @@
 
-public class Entity
+public class Eric
 {
     Position pos;
 
-    public Entity(Position pos)
+    public Eric(Position pos)
     {
 	this.pos = pos;
+	//jdjdjhdhdffi
     }
 }
