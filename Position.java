@@ -10,6 +10,9 @@ public class Position
     /** The y-position of this position class **/
     double yPos;
     
+    /**
+     *Parameterized constructor, initializes x and y positions of this position instance
+     */
     public Position(double xPos, double yPos)
     {
 	this.xPos = xPos;
